@@ -1,4 +1,5 @@
-# personas project
+# quarkus-demo
+Playing around Quarkus + Java 11. This repo integrate git-flow
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
